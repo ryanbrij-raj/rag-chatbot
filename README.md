@@ -7,6 +7,9 @@ A fully local Retrieval-Augmented Generation (RAG) chatbot for document Q&A — 
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-green)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange)
 
+<img width="1913" height="941" alt="image" src="https://github.com/user-attachments/assets/a7453492-46d9-4dfe-895b-d36562840f28" />
+
+
 ## Overview
 
 Upload any document — PDF, text, or markdown — and ask questions about it. The app retrieves the most relevant passages using semantic search, then generates a grounded answer with a local open-source LLM, citing exactly which passages it used.
